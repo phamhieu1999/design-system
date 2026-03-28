@@ -45,7 +45,7 @@ Mỗi hệ thống được phân tích sẽ đi kèm với **Mapping Pattern**,
 |---|---|---|
 | **Google Search**| Inverted index, PageRank, Spanner/Colossus, MapReduce | [docs/google-search-system](./docs/google-search-system) |
 | **Apache Kafka** | Distributed log, Exactly-once (EOS), KRaft consensus | [docs/kafka-system](./docs/kafka-system) |
-| **Redis** | *[Đang chờ triển khai]* In-memory cache, Cluster mode | *(Pending)* |
+| **Redis** | In-memory structures, Sentinel HA, Cluster mode | [docs/redis-system](./docs/redis-system) |
 
 ---
 

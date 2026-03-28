@@ -27,7 +27,7 @@
 
 - [x] **Google Search** — Inverted index, PageRank, web crawler
 - [x] **Kafka** — Distributed log, partitioning, exactly-once delivery
-- [ ] **Redis** — In-memory structures, persistence, cluster mode
+- [x] **Redis** — In-memory structures, persistence, cluster mode
 
 ---
 
