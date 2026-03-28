@@ -9,13 +9,13 @@
 - [x] **Instagram** — Fan-out, media pipeline, sharding, ML ranking
 - [x] **Twitter/X** — Timeline fan-out, trending, pub/sub, event sourcing
 - [x] **WhatsApp** — E2EE messaging, delivery semantics, offline sync
-- [ ] **URL Shortener** — Hashing, base62, read-heavy, redirect optimization
+- [x] **URL Shortener** — Hashing, base62, read-heavy, redirect optimization
 
 ## Tier 2: Media & Streaming
 
 - [x] **YouTube** — Video transcoding, adaptive bitrate, recommendation
 - [x] **Netflix** — Microservices gốc, chaos engineering, global CDN
-- [ ] **Spotify** — Audio streaming, collaborative filtering, offline mode
+- [x] **Spotify** — Audio streaming, collaborative filtering, offline mode
 
 ## Tier 3: E-commerce & Fintech
 
@@ -25,8 +25,8 @@
 
 ## Tier 4: Infrastructure & Database
 
-- [ ] **Google Search** — Inverted index, PageRank, web crawler
-- [ ] **Kafka** — Distributed log, partitioning, exactly-once delivery
+- [x] **Google Search** — Inverted index, PageRank, web crawler
+- [x] **Kafka** — Distributed log, partitioning, exactly-once delivery
 - [ ] **Redis** — In-memory structures, persistence, cluster mode
 
 ---
